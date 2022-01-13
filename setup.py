@@ -33,7 +33,7 @@ setup(
         "tensorflow-gpu==2.0.0-beta1",
         "pandas==0.25.0",
         "sklearn==0.0",
-        "pillow==6.1.0",
+        "pillow==9.0.0",
         "matplotlib==3.1.1",
         "seaborn==0.9.0"
     ]
